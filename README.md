@@ -20,6 +20,8 @@ DESCRIPTION
 
 Terminal utility developed in Python. Obtains a list of the latest DONTORRENT movies and allows you to send the download to a remote DELUGE queue.
 
+___________________________________________________________________________________________________________________________________________________
+
 # DONTORRENTTERMINALDOWNLOADER
 
 DONTORRENT TERMINAL DOWNLOADER

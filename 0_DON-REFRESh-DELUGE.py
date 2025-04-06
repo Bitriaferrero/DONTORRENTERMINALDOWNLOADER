@@ -10,8 +10,9 @@ from urllib.parse import urljoin
 import base64
 
 # Configuración Deluge
-DELUGE_URL = "http://192.168.1.107:8112/json"
-DELUGE_PASSWORD = "090172Dd"
+DELUGE_URL = "LOCAL URL TO DELUGE"
+# EXAMPLE DELUGE_URL = "http://192.168.1.107:8112/json"
+DELUGE_PASSWORD = "PASSWORDDELUGE"
 HEADERS = {'Content-Type': 'application/json'}
 
 # Configuración de la interfaz
